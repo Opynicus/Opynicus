@@ -3,18 +3,24 @@
         Hi there 👋
     </h3>
     <br>
-    <p>
-        🏫 A student who still has a lot to learn
-    </p>
+    <ul align="left">
+       <li> 🏫 A student who still has a lot to learn</li>
+        <li> 🎮 like playing video games</li>
+        <li> ⚡ electronic music fan</li>
+    </ul>
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS&layout=compact">
     <br><br><br>
-    <h4>
-        🔨 Working with
-    </h4>
+    <h4>🔨 Working with</h4>
     <img src="https://img.shields.io/badge/vscode-Tools-blue?logo=visual-studio-code&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/badge/JetBrains-Tools-orangered?logo=IntelliJ-IDEA&logoColor=orangered&style=for-the-badge">
+    <img src="https://img.shields.io/badge/JetBrains-Tools-orangered?logo=JetBrains&logoColor=orangered&style=for-the-badge">
 </div>
+
+
+​        
+
+
+​      
 
 
 

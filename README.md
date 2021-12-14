@@ -9,12 +9,13 @@
         <li> ⚡ electronic music fan</li>
     </ul>
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact">
     <br><br><br>
     <h4>🔨 Working with</h4>
     <img src="https://img.shields.io/badge/vscode-Tools-blue?logo=visual-studio-code&logoColor=blue&style=for-the-badge">
     <img src="https://img.shields.io/badge/JetBrains-Tools-orangered?logo=JetBrains&logoColor=orangered&style=for-the-badge">
 </div>
+
 
 
 ​        

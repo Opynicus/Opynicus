@@ -25,11 +25,12 @@
 
 
 
-  <div>
-          <h4 align="center">
+  <div align="center">
+          <h4>
               🔭 Status
           </h4>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact&theme=buefy">
+      <br><br>
               	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Opynicus&hide=YAML,Starlark,VHDL,HTML,CSS&langs_count=5&theme=nord">
   </div>
 

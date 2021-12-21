@@ -5,23 +5,33 @@
     <br>
     <ul align="left">
        <li> 🏫 A student who still has a lot to learn</li>
-        <li> 🎮 like playing video games</li>
-        <li> ⚡ electronic music fan</li>
+        <li> 🎮 like playing video games, therefore have some interest in graphics and game engine</li>
+        <li> ⚡ electronic music fan, but rock and pop are also my cup of tea :)</li>
     </ul>
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact">
-    <br><br><br>
-    <h4>🔨 Working with</h4>
+    </div>
+
+
+
+
+
+<div align="center">
+        <h4>🔨 Working with</h4>
     <img src="https://img.shields.io/badge/vscode-Tools-blue?logo=visual-studio-code&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/badge/JetBrains-Tools-orangered?logo=JetBrains&logoColor=orangered&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Intellij%20Idea-Tools-orange?logo=IntelliJ-IDEA&logoColor=orange&style=for-the-badge">
+    <img src="https://img.shields.io/badge/CLion-Tools-limegreen?logo=CLion&logoColor=limegreen&style=for-the-badge">
 </div>
 
 
 
-​        
 
 
-​      
+  <div>
+          <h4 align="center">
+              🔭 Status
+          </h4>
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact&theme=buefy">
+              	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Opynicus&hide=YAML,Starlark,VHDL,HTML,CSS&langs_count=5&theme=nord">
+  </div>
 
 
 

@@ -13,13 +13,12 @@
 
 
 
-
 <div align="center">
         <h4>🔨 Working with</h4>
     <img src="https://img.shields.io/badge/vscode-Tools-blue?logo=visual-studio-code&logoColor=blue&style=for-the-badge">
     <img src="https://img.shields.io/badge/Intellij%20Idea-Tools-orange?logo=IntelliJ-IDEA&logoColor=orange&style=for-the-badge">
-    <img src="https://img.shields.io/badge/CLion-Tools-limegreen?logo=CLion&logoColor=limegreen&style=for-the-badge">
 </div>
+
 
 
 
@@ -35,7 +34,7 @@
   </div>
 
 
-
+![](.\image\snk.svg)
 
 
 

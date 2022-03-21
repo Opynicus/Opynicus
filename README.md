@@ -32,9 +32,7 @@
       <br><br>
               	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Opynicus&hide=YAML,Starlark,VHDL,HTML,CSS&langs_count=5&theme=nord">
   </div>
-
-
-![](.\image\snk.svg)
+<img src="./image/snk.svg">
 
 
 

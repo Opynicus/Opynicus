@@ -19,18 +19,13 @@
     <img src="https://img.shields.io/badge/WSL2-Toolchain-lightgray?logo=Linux&logoColor=black&style=for-the-badge">
 </div>
 
-  <div align="center">
+<div align="center">
           <h4>
               🔭 Status
           </h4>
-    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact&theme=buefy">
-              	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Opynicus&hide=YAML,Starlark,VHDL,HTML,CSS&langs_count=5&theme=nord">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact&theme=buefy">-->
+                  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Opynicus&hide=YAML,Starlark,VHDL,HTML,CSS&langs_count=5&theme=nord">
 </div>
-
-
-
-
-
 
 <!--
 **ZTLPluz/ZTLPLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

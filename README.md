@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
     <h3>
         Hi there 👋
     </h3>
@@ -8,7 +8,7 @@
         <li> 🎮 like playing video games, therefore have some interest in graphics and game engine</li>
         <li> 📕 learning cpp/golang</li>
     </ul>
-    </div>
+    </div>-->
 
 <div align="center">
         <h4>🔨 Working with</h4>

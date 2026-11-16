@@ -1,38 +1,70 @@
 <div align="center">
-        <h4>🔨 Working with</h4>
-    <img src="https://img.shields.io/badge/Intellij%20Idea-Tools-orange?logo=IntelliJ-IDEA&logoColor=orange&style=for-the-badge">
-    <img src="https://img.shields.io/badge/vscode-Tools-blue?logo=visual-studio-code&logoColor=blue&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Zed-Tools-black?logo=zedindustries&logoColor=white&style=for-the-badge">
-        <img src="https://img.shields.io/badge/iTerm2-TOOLS-brown?logo=iterm2&logoColor=white&style=for-the-badge">
+    <h2>Hi, I'm Opynicus 👋</h2>
 </div>
+
 <div align="center">
-          <h4>
-              💻 developing on
-          </h4>
-<img src="https://img.shields.io/badge/WSL2-000000?logo=Linux&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-    <img src="https://img.shields.io/badge/Windows_11-007FFF?style=for-the-badge&logo=windows&logoColor=white">
+    <h4>🧩 Coding with</h4>
+    <p>
+        <a href="https://www.rust-lang.org/">
+            <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" height="28">
+        </a>
+        <a href="https://www.java.com/">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="28">
+        </a>
+    </p>
 </div>
+
 <div align="center">
-          <h4>
-              🔭 Status
-          </h4>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTLPluz&hide=VHDL,HTML,CSS,Starlark&layout=compact&theme=buefy">-->
-                  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Opynicus&hide=YAML,Starlark,VHDL,HTML,CSS&langs_count=5&theme=nord&range=last_7_days">
+    <h4>🔨 Working with</h4>
+    <p>
+        <a href="https://www.jetbrains.com/idea/">
+            <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA" height="28">
+        </a>
+        <a href="https://code.visualstudio.com/">
+            <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="Visual Studio Code" height="28">
+        </a>
+        <a href="https://zed.dev/">
+            <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&amp;logo=zedindustries&amp;logoColor=white" alt="Zed" height="28">
+        </a>
+    </p>
+    <p>
+        <a href="https://ghostty.org/">
+            <img src="https://img.shields.io/badge/Ghostty-3551F3?style=for-the-badge&amp;logo=ghostty&amp;logoColor=white" alt="Ghostty" height="28">
+        </a>
+        <a href="https://www.zsh.org/">
+            <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&amp;logo=zsh&amp;logoColor=white" alt="Zsh" height="28">
+        </a>
+        <a href="https://git-scm.com/">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="28">
+        </a>
+    </p>
 </div>
 
+<div align="center">
+    <h4>💻 Developing on</h4>
+    <p>
+        <a href="https://learn.microsoft.com/windows/wsl/">
+            <img src="https://img.shields.io/badge/WSL2-000000?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Windows Subsystem for Linux 2" height="28">
+        </a>
+        <a href="https://www.apple.com/macos/">
+            <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="macOS" height="28">
+        </a>
+        <a href="https://www.microsoft.com/windows/windows-11">
+            <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge" alt="Windows 11" height="28">
+        </a>
+        <a href="https://archlinux.org/">
+            <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white" alt="Arch Linux" height="28">
+        </a>
+    </p>
+</div>
 
-<!--
-**ZTLPluz/ZTLPLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h4>🔭 Status</h4>
+    <p>Coding activity over the last 7 days</p>
+    <!-- Migration: https://github.com/stats-organization/github-stats-extended#migration-from-github-readme-stats -->
+    <p>
+        <a href="https://wakatime.com/@Opynicus">
+            <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Opynicus&amp;hide=YAML,Starlark,VHDL,HTML,CSS&amp;langs_count=5&amp;theme=nord&amp;range=last_7_days" alt="Opynicus's WakaTime language statistics over the last 7 days" width="495">
+        </a>
+    </p>
+</div>

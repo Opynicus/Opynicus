@@ -61,9 +61,10 @@
 <div align="center">
     <h4>🔭 Status</h4>
     <p>Coding activity over the last 7 days</p>
+    <!-- Migration: https://github.com/stats-organization/github-stats-extended#migration-from-github-readme-stats -->
     <p>
         <a href="https://wakatime.com/@Opynicus">
-            <img src="assets/wakatime.svg" alt="Opynicus's WakaTime language statistics over the last 7 days" width="495">
+            <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Opynicus&amp;hide=YAML,Starlark,VHDL,HTML,CSS&amp;langs_count=5&amp;theme=nord&amp;range=last_7_days" alt="Opynicus's WakaTime language statistics over the last 7 days" width="495">
         </a>
     </p>
 </div>

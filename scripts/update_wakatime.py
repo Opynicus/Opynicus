@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate a public card from WakaTime's private daily summaries."""
 
+import base64
 from collections import defaultdict
 from datetime import datetime, timedelta
 from html import escape
@@ -33,8 +34,9 @@ def fetch():
     today = datetime.now(ZoneInfo("Asia/Shanghai")).date()
     query = urlencode({"start": (today - timedelta(days=6)).isoformat(), "end": today.isoformat(),
                        "timezone": "Asia/Shanghai"})
+    authorization = base64.b64encode(token.encode()).decode("ascii")
     request = Request("https://wakatime.com/api/v1/users/current/summaries?" + query,
-                      headers={"Authorization": "Bearer " + token, "User-Agent": "Opynicus-profile-stats"})
+                      headers={"Authorization": "Basic " + authorization, "User-Agent": "Opynicus-profile-stats"})
     with urlopen(request, timeout=30) as response:
         return json.load(response)
 
